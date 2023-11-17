@@ -4,7 +4,7 @@
 
 <section class="user-form">
   <%= form_for :user, url: '/users' do |f| %>
-
+    
     First name: <%= f.text_field :first_name %>
     Last name: <%= f.text_field :last_name %>
     Email: <%= f.text_field :email %>
@@ -13,5 +13,5 @@
     <%= f.submit "Submit" %>
 
   <% end %>
-  
+
 </section>
