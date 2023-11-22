@@ -29,3 +29,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Screenshots
+
+!["Screenshot of Jungle home page"](https://github.com/dantan380/jungle/blob/master/docs/Screenshot%202023-11-22%20at%202.10.26%E2%80%AFPM.png?raw=true)
+
+!["Screenshot of product details page"](https://github.com/dantan380/jungle/blob/master/docs/Screenshot%202023-11-22%20at%202.11.01%E2%80%AFPM.png?raw=true)
+
+!["Screenshot of Cart page"](https://github.com/dantan380/jungle/blob/master/docs/Screenshot%202023-11-22%20at%202.11.22%E2%80%AFPM.png?raw=true)
